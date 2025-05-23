@@ -32,7 +32,6 @@ func main() {
 }
 ```
 
-## ✅ Test
 <!-- description -->
 
 ## 🤝 Contributing
