@@ -7,11 +7,7 @@
 
 ---
 
-<center>
-
-<!-- projectStatistics -->
-
-</center>
+English | [简体中文](README.zh-CN.md)
 
 > GlobalEnv provides a simple and consistent way to manage global environment variables across different operating systems. It allows you to add, remove, update, and query environment variables, making it ideal for managing configuration values that need to persist across system sessions or applications.
 
@@ -47,7 +43,7 @@ Feel free to check [issues page](https://github.com/Ansurfen/globalenv/issues) i
 
 ## 📝 License
 
-This software is licensed under the <!-- license --> license, see [LICENSE](./LICENSE) for more information.
+This software is licensed under the MIT license, see [LICENSE](./LICENSE) for more information.
 
 ---
 
